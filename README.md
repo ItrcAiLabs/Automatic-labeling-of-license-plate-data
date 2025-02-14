@@ -1,0 +1,1 @@
+# Automatic-labeling-of-license-plate-data
